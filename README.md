@@ -1,5 +1,5 @@
 # parameter-restore
-This handy tool is will make backing up your parameters in parameter store quick and easy. 
+This handy tool will make backing up your parameters in parameter store quick and easy. 
 
 
 ```
